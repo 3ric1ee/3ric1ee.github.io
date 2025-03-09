@@ -47,7 +47,7 @@ My research interest is deeply rooted in the intersection of urban policies, big
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PPR-CEPU</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Pandemic-Induced Behavioral Changes and Persistence in High-Density Urban Context: A Panel Study From Hong Kong]
+[Pandemic-era behavioral changes and post-pandemic persistence in the high-density urban context of Hong Kong]
 
 **Zhizhao Li**, Pengyu Zhu, Yuqing Guo, Jeffrey Chow, *Cities* (Under Revision)
 
