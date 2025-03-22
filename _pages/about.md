@@ -25,6 +25,7 @@ My research interest is deeply rooted in the intersection of urban policies, big
 *Quote: "**風檐展書讀，古道照顏色**（Under the eaves I open the book and read; the ancient Way lights up my face）" from 《正氣歌》（The Song of the Spirit of Righteousness），文天祥 （Wen Tian-xiang, Song Dynasty）*
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 The paper **"Pandemic-era behavioral changes and post-pandemic persistence in the high-density urban context of Hong Kong"** co-authored with Prof. Zhu, Yuqing and Jeff has been accepted by *CITIES*. We assess how the pandemic has modified the behaviors of Hong Kong's residents and the durability of these changes, by undertaking a demographically representative survey from June to September 2022, with a subsequent follow-up in August 2023. Our findings reveal several pandemic-induced behavioral trends that diverge from existing literature, offering new insights into behavioral change and its persistence. These insights contribute to a deeper understanding of emerging norms in the post-pandemic era and enhance preparedness for future public health challenges.
 - *2025.01*: &nbsp;🎉🎉 The paper **"Analyzing Determinants of Traffic Violations in a Multi-Cultural Setting: Case of Abu Dhabi"** co-authored with Prof. Praveen Maghelal and Prof. Pengyu Zhu has been accepted by *Journal of Urban Management*. We examined traffic violations in a multicultural context and found that drivers with switching driving licences (without domestic driving test) had a lower frequency of traffic violations.We provide a rationale for adopting a more open driving licence policy in a multicultural city.
 - *2025.01*: &nbsp;One of my most respected professors, Donald LOW, just published his new book "The Price of Zero", an anthology of essays on the Chinese economy examines the causes and economic consequences of the zero-Covid policy that China pursued during the pandemic [Link to know more](https://thepriceofzero.org/) .
 - *2024.09*: &nbsp;My Office has been relocated to Office C (Room 4336, lift 13-15, HKUST). Welcome~
@@ -49,7 +50,7 @@ My research interest is deeply rooted in the intersection of urban policies, big
 
 [Pandemic-era behavioral changes and post-pandemic persistence in the high-density urban context of Hong Kong]
 
-**Zhizhao Li**, Pengyu Zhu, Yuqing Guo, Jeffrey Chow, *Cities* (Under Revision)
+**Zhizhao Li**, Pengyu Zhu, Yuqing Guo, Jeffrey Chow, *Cities* (Accepted)
 
 [**Project: 2021.A7.021.21C**](https://www.cepu.gov.hk/doc/en/research_report(PDF)/2021.A7.021.21C_Final%20Report_Prof%20Zhu.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Conduct a HKPSSD- based survey on the behavioral changes in Post-Pandemic Hong Kong. Lead in the data collection and data cleansing process. Then, use data collected via the HKPSSD-based survey and structural equation modeling (SEM) to identify the causal relationships between COVID-19 risks.
