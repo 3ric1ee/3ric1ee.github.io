@@ -50,7 +50,7 @@ My research interest is deeply rooted in the intersection of urban policies, big
 
 [Pandemic-era behavioral changes and post-pandemic persistence in the high-density urban context of Hong Kong]
 
-**Zhizhao Li**, Pengyu Zhu, Yuqing Guo, Jeffrey Chow, *Cities* (Accepted)
+**Zhizhao Li**, Pengyu Zhu, Yuqing Guo, Jeffrey Chow. *Cities* (Accepted)
 
 [**Project: 2021.A7.021.21C**](https://www.cepu.gov.hk/doc/en/research_report(PDF)/2021.A7.021.21C_Final%20Report_Prof%20Zhu.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Conduct a HKPSSD- based survey on the behavioral changes in Post-Pandemic Hong Kong. Lead in the data collection and data cleansing process. Then, use data collected via the HKPSSD-based survey and structural equation modeling (SEM) to identify the causal relationships between COVID-19 risks.
@@ -60,8 +60,9 @@ My research interest is deeply rooted in the intersection of urban policies, big
 </div>
 </div>
 
-- [Policy designs for adaptive governance of disruptive technologies: The case of facial recognition technology (FRT) in China](https://www.tandfonline.com/doi/full/10.1080/25741292.2022.2162248), **Zhizhao Li**, Yuqing Guo, Masaru Yarime, Xun Wu, *Policy Design and Practice*
-- [Analyzing Determinants of Traffic Violations in a Multi-Cultural Setting: Case of Abu Dhabi](https://www.sciencedirect.com/science/article/pii/S2226585625000068), Praveen Maghelal, **Zhizhao Li**, Ahmed Alfarra, Pengyu Zhu, *Journal of Urban Management*
-- [Unified, Segmented, and Supranational: Contrasting Approaches to Governing Facial Recognition Technology ], Weiye Zang, Yuqing Guo, **Zhizhao Li**, Masaru Yarime, Xun Wu, *Regulation & Governance*, Under Review
-- [Exploring the Persistence of Pandemic-Induced Travel Behaviour Changes in Hong Kong: A Structural Equation Modelling Approach], Pengyu Zhu, Yuqing Guo, **Zhizhao Li**, Jeffrey Chow, Under Review
+- [Policy designs for adaptive governance of disruptive technologies: The case of facial recognition technology (FRT) in China](https://www.tandfonline.com/doi/full/10.1080/25741292.2022.2162248), **Zhizhao Li**, Yuqing Guo, Masaru Yarime, Xun Wu. *Policy Design and Practice*
+- [Analyzing Determinants of Traffic Violations in a Multi-Cultural Setting: Case of Abu Dhabi](https://www.sciencedirect.com/science/article/pii/S2226585625000068), Praveen Maghelal, **Zhizhao Li**, Ahmed Alfarra, Pengyu Zhu. *Journal of Urban Management*
+- [Exploring the Persistence of Pandemic-Induced Travel Behaviour Changes in Hong Kong: A Structural Equation Modelling Approach], Pengyu Zhu, Yuqing Guo, **Zhizhao Li**, Jeffrey Chow. *Travel Behaviour and Society*, Under Review
+- [Unified, Segmented, and Supranational: Contrasting Approaches to Governing Facial Recognition Technology ], Weiye Zang, Yuqing Guo, **Zhizhao Li**, Masaru Yarime, Xun Wu. *Regulation & Governance*, Under Review
+
 
