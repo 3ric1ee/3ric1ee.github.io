@@ -48,9 +48,9 @@ My research interest is deeply rooted in the intersection of urban policies, big
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PPR-CEPU</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Pandemic-era behavioral changes and post-pandemic persistence in the high-density urban context of Hong Kong]
+[Pandemic-era behavioral changes and post-pandemic persistence in the high-density urban context of Hong Kong](https://www.sciencedirect.com/science/article/pii/S0264275125002409)
 
-**Zhizhao Li**, Pengyu Zhu, Yuqing Guo, Jeffrey Chow. *Cities* (Accepted)
+**Zhizhao Li**, Pengyu Zhu, Yuqing Guo, Jeffrey Chow. *Cities* 
 
 [**Project: 2021.A7.021.21C**](https://www.cepu.gov.hk/doc/en/research_report(PDF)/2021.A7.021.21C_Final%20Report_Prof%20Zhu.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Conduct a HKPSSD- based survey on the behavioral changes in Post-Pandemic Hong Kong. Lead in the data collection and data cleansing process. Then, use data collected via the HKPSSD-based survey and structural equation modeling (SEM) to identify the causal relationships between COVID-19 risks.
