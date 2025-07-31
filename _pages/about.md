@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my academic portfolio! I am Eric, **a** **mixologist**, **a** **chef**, **and a** **Ph.D. student** at HKUST, under the guidance of [Prof. Pengyu Zhu](https://pengyuzhu.com/).
+Welcome to my academic portfolio! I am Eric, **a** **mixologist**, **a** **chef**, **and a** **Ph.D. Candidate** at HKUST, under the guidance of [Prof. Pengyu Zhu](https://pengyuzhu.com/).
 
 # 🎓 Research Interests
 My research interest is deeply rooted in the intersection of urban policies, big data, and behavioral economics, with a particular focus on **electric vehicle** (EV) policies and **travel behavior**. In addition, I am also interested in the electric vehicle **overcapacity** issue and **disruptive technology governance**. For the past three years, my primary research has been on **pandemic-induced behavioral changes** and their **potential stickness** in a high density urban context. I hope to have the opportunity to interact with scholars who share the same research interests!
