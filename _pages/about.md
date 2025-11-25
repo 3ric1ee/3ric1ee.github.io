@@ -64,7 +64,8 @@ My research interest is deeply rooted in the intersection of urban policies, big
 
 - [Policy designs for adaptive governance of disruptive technologies: The case of facial recognition technology (FRT) in China](https://www.tandfonline.com/doi/full/10.1080/25741292.2022.2162248), **Zhizhao Li**, Yuqing Guo, Masaru Yarime, Xun Wu. *Policy Design and Practice*
 - [Analyzing Determinants of Traffic Violations in a Multi-Cultural Setting: Case of Abu Dhabi](https://www.sciencedirect.com/science/article/pii/S2226585625000068), Praveen Maghelal, **Zhizhao Li**, Ahmed Alfarra, Pengyu Zhu. *Journal of Urban Management*
-- [Exploring the Persistence of Pandemic-Induced Travel Behaviour Changes in Hong Kong: A Structural Equation Modelling Approach], Pengyu Zhu, Yuqing Guo, **Zhizhao Li**, Jeffrey Chow. 
+- [From External Shocks to Behavioral Shifts: Exploring Mediating Mechanisms of Dining and Shopping Changes with Structural Equation Modelling], **Zhizhao Li**, Yuqing Guo, Jeffrey Chow, Kira Matus, Pengyu Zhu. Working Paper.
+- [Exploring the Persistence of Pandemic-Induced Travel Behaviour Changes in Hong Kong: A Structural Equation Modelling Approach], Pengyu Zhu, Yuqing Guo, **Zhizhao Li**, Jeffrey Chow. Submitted.
 - [Unified, Segmented, and Supranational: Contrasting Approaches to Governing Facial Recognition Technology ], Weiye Zang, Yuqing Guo, **Zhizhao Li**, Masaru Yarime, Xun Wu. Working Paper
 
 
