@@ -45,7 +45,7 @@ My research interest is deeply rooted in the intersection of urban policies, big
 - *2021.09-2023.07*,  Academic Excellence Scholarship (GPA 4.094/4.300), The Hong Kong University of Science and Technology - HK$40,000
 - *2017.09-2021.05*,  Bowen Scholarship, The Chinese University of Hong Kong, Shenzhen - RMB120,000
 
-# 📝 Publications 
+# 📝 Publications and Projects 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PPR-CEPU</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -61,11 +61,26 @@ My research interest is deeply rooted in the intersection of urban policies, big
 
 </div>
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PPR-CEPU</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Enhancing the lmplementation of “One University, Two Campuses” and Mutual Recenition of Academic Oualifications: A Mixed-methods Study]
+
+[**Project: E2025.A7.039**](https://www.cepu.gov.hk/en/PRFS/ppr-reports.html?from=2025-26-%28theme-based%29&to=2025-26-%28theme-based%29&relLang=en) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lead the proposal write-up and help the grant application.
+- To understand and analyze the governance structures, academic offerings, and financial support of the existing “One University, Two Campuses” (OUTC) cases domestically and internationally, and categorize them systematically.
+- To evaluate the level of mutual recognition of academic qualifications in existing cases. We focus on the level of recognition between the two campuses and on the level of recognition among employers.
+- To explore and to identify the unique and common challenges in the implementation of OUTC, taking multi-stakeholder input and domestic development needs of sub-campus’ locality into consideration, and to prioritize them by importance
+- To investigate the factors influencing the level of mutual recognition of qualifications, and other challenges identified.
+
+
+
+</div>
+</div>
 
 - [Policy designs for adaptive governance of disruptive technologies: The case of facial recognition technology (FRT) in China](https://www.tandfonline.com/doi/full/10.1080/25741292.2022.2162248), **Zhizhao Li**, Yuqing Guo, Masaru Yarime, Xun Wu. *Policy Design and Practice*
 - [Analyzing Determinants of Traffic Violations in a Multi-Cultural Setting: Case of Abu Dhabi](https://www.sciencedirect.com/science/article/pii/S2226585625000068), Praveen Maghelal, **Zhizhao Li**, Ahmed Alfarra, Pengyu Zhu. *Journal of Urban Management*
-- [From External Shocks to Behavioral Shifts: Exploring Mediating Mechanisms of Dining and Shopping Changes with Structural Equation Modelling], **Zhizhao Li**, Yuqing Guo, Jeffrey Chow, Kira Matus, Pengyu Zhu. Working Paper.
+- [From External Shocks to Behavioral Shifts: Exploring Mediating Mechanisms of Dining and Shopping Changes with Structural Equation Modelling], **Zhizhao Li**, Yuqing Guo, Jeffrey Chow, Kira Matus, Pengyu Zhu. Submitted.
 - [Exploring the Persistence of Pandemic-Induced Travel Behaviour Changes in Hong Kong: A Structural Equation Modelling Approach], Pengyu Zhu, Yuqing Guo, **Zhizhao Li**, Jeffrey Chow. Submitted.
-- [Unified, Segmented, and Supranational: Contrasting Approaches to Governing Facial Recognition Technology ], Weiye Zang, Yuqing Guo, **Zhizhao Li**, Masaru Yarime, Xun Wu. Working Paper
-
-
+- [Unified, Segmented, and Supranational: Contrasting Approaches to Governing Facial Recognition Technology], Weiye Zang, Yuqing Guo, **Zhizhao Li**, Masaru Yarime, Xun Wu. Working Paper.
+- [Policy Recommendations: Convergence or Divergence? Analyzing Academic Research in Transportation Using LLM and Computational Social Science], Xuan Zhang, **Zhizhao Li**. Working Paper.
