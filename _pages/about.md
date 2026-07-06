@@ -25,6 +25,8 @@ My research interest is deeply rooted in the intersection of urban policies, big
 *Quote: "**風檐展書讀，古道照顏色**（Under the eaves I open the book and read; the ancient Way lights up my face）" from 《正氣歌》（The Song of the Spirit of Righteousness），文天祥 （Wen Tian-xiang, Song Dynasty）*
 
 # 🔥 News
+- *2026.7*: &nbsp;🎉🎉 I have presented my research titled "Policy Recommendations in Academic Research: Convergence or Divergence — and What Does That Mean for Diffusion?
+Evidence from Electric Vehicle Policy Research, 2010–2020" at the IWPP5, Ottawa.
 - *2025.11*: &nbsp;🎉🎉 I have presented my research titled "Policy Recommendations: Convergence or Divergence? Analyzing Academic Research in Transportation Using LLM and Computational Social Science" at the APPAM Fall Research Conference 2025, Seattle.
 - *2025.07*: &nbsp;🎉🎉 I have presented my research titled "Policy Recommendations: Convergence or Divergence? Analyzing Academic Research in Transportation Using LLM and Computational Social Science" in the panel "Putting policy diffusion in process" of the at the 7th International Conference on Public Policy (ICPPP7), Chiang Mai 2025. This study constructs a scalable measure of policy recommendation convergence/ divergence in academic papers; and explores the extent of convergence/ divergence within the context of electric vehicle (EV) research in the transportation field. 
 - *2025.03*: &nbsp;🎉🎉 The paper **"Pandemic-era behavioral changes and post-pandemic persistence in the high-density urban context of Hong Kong"** co-authored with Prof. Zhu, Yuqing and Jeff has been accepted by *CITIES*. We assess how the pandemic has modified the behaviors of Hong Kong's residents and the durability of these changes, by undertaking a demographically representative survey from June to September 2022, with a subsequent follow-up in August 2023. Our findings reveal several pandemic-induced behavioral trends that diverge from existing literature, offering new insights into behavioral change and its persistence. These insights contribute to a deeper understanding of emerging norms in the post-pandemic era and enhance preparedness for future public health challenges.
@@ -40,6 +42,7 @@ My research interest is deeply rooted in the intersection of urban policies, big
 - *2017.09 - 2021.05*, **B.B.A. in Applied Economics**, The Chinese University of Hong Kong, Shenzhen.
 
 # 🎖 Grants and Awards
+- *2024.05-2026.05*,  HKUST Redbird Academic Excellence Award for Continuing PhD Students, The Hong Kong University of Science and Technology - HK$40,000
 - *2023.09*,  **Hong Kong PhD Fellowship Scheme (HKPFS)**, Hong Kong Research Grants Council (RGC) - HK$1,500,000
 - *2023.09*,  HKUST RedBird PhD Award, The Hong Kong University of Science and Technology - HK$40,000 
 - *2021.09-2023.07*,  Academic Excellence Scholarship (GPA 4.094/4.300), The Hong Kong University of Science and Technology - HK$40,000
